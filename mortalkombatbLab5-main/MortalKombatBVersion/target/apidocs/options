@@ -1,0 +1,24 @@
+-classpath
+'D:/Users/Kseny/.m2/repository/org/apache/poi/poi/5.2.3/poi-5.2.3.jar;D:/Users/Kseny/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar;D:/Users/Kseny/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar;D:/Users/Kseny/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar;D:/Users/Kseny/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;D:/Users/Kseny/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar;D:/Users/Kseny/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar;D:/Users/Kseny/.m2/repository/org/apache/poi/poi-ooxml/5.2.3/poi-ooxml-5.2.3.jar;D:/Users/Kseny/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.3/poi-ooxml-lite-5.2.3.jar;D:/Users/Kseny/.m2/repository/org/apache/xmlbeans/xmlbeans/5.1.1/xmlbeans-5.1.1.jar;D:/Users/Kseny/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar;D:/Users/Kseny/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar;D:/Users/Kseny/.m2/repository/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar'
+--patch-module
+MortalKombatBVersion='D:/Users/Kseny/OneDrive/Документы/NetBeansProjects/MortalKombatBVersion/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Users/Kseny/OneDrive/Документы/NetBeansProjects/MortalKombatBVersion/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MortalKombatBVersion 0.1 API'
+-use
+-version
+-windowtitle
+'MortalKombatBVersion 0.1 API'
